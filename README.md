@@ -76,10 +76,7 @@ Contributions to this project are welcome! To contribute:
 
 ## License
 
-This project is released under the [Your License Here] license. See the LICENSE file for more details.
+This project is released under the MIT license. See the LICENSE file for more details.
 
-## Contact
-
-Should you have any questions or require further assistance, please reach out to [Your Contact Information].
 
 
