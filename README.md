@@ -18,7 +18,7 @@ This Book Store API is an ASP.NET Core Web API project that manages a collection
 
 1. **Clone the Repository**  
    First, clone the repository to your local machine using the following command:
-   git clone <Your Repository URL>
+   git clone https://github.com/Paker322/BookStoreApi.git
    cd bookstoreapi
    
 2. **Configure MongoDB Connection**  
